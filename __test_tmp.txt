@@ -1,0 +1,3 @@
+línea 1
+línea 2 "comillas" y \ backslash
+ñ á é í ó ú Ñ
